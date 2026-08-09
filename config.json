@@ -1,10 +1,9 @@
 {
   "ticker": "LOV.AX",
   "company": "Lovisa Holdings Limited",
-  "valuation_currency": "AUD",
   "required_return": 0.15,
   "forecast_years": 10,
-  "fallback_median_pe": null,
+  "fallback_median_pe": 36.97,
   "alert_email": "robertmccormack3814@gmail.com",
   "fcf_years": 7
 }
