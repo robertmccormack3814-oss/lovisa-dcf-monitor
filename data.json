@@ -4,19 +4,18 @@
   "intrinsic_value_aud": null,
   "discount_to_value_pct": null,
   "avg_fcf_per_share_aud": null,
-  "growth_rate": null,
-  "median_pe": null,
-  "undervalued": false,
-  "updated_at": null,
-  "fcf_history": [],
   "sustainable_growth_rate": null,
   "roe": null,
   "payout_ratio": null,
   "retention_ratio": null,
+  "median_pe": null,
+  "undervalued": false,
+  "updated_at": null,
+  "fcf_history": [],
   "sources": {
     "fundamentals": "Not yet updated",
+    "growth": "Not yet updated",
     "yahoo": "Not yet updated",
-    "gurufocus": "Not yet updated",
-    "growth": "Not yet updated"
+    "gurufocus": "Not yet updated"
   }
 }
